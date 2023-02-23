@@ -1,2 +1,2 @@
-# Glassdoor_web_scraping
+# Glassdoor web scraping : 
 this script was made with BeautifulSoup.
